@@ -1,2 +1,0 @@
-
-    printf("Jawab :\n");
