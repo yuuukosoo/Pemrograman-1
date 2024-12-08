@@ -8,10 +8,6 @@ def Biodata(tahunlahir,Namaku,Asal):
     print(f"Asal Saya dari {Asal}")
     print(" ")
 
-tahunlahir: int =None
-Namaku=""
-Asal=""
-
 tahunlahir=int(input())
 Namaku=input()
 Asal=input()
