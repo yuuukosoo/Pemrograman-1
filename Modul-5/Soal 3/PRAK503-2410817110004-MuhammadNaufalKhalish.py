@@ -26,14 +26,3 @@ else :
     print(f"{maks} {minim}")
 
 
-
-# batas=0 
-# maks=-100000
-# minim=100000
-# bilangan=int(input())
-
-# while batas < bilangan:
-#     nilai=int(input().split())
-#     maks=maksimal(maks, nilai)
-#     minim=minimal(minim, nilai)
-#     batas+=1
